@@ -4,4 +4,4 @@ A machine learning model that classifies images of cats and dogs using a Support
 
 This project was completed as part of my internship task.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Rt4Vw6YyLMz1_W2aBAhK6JB_vWDcWwG5#scrollTo=a7buuS7P8XCt)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ws-Vtfb6it89UBoLUA09gNKn5WwMggHs)
