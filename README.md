@@ -1,4 +1,4 @@
-Cat vs Dog Image Classification with SVM
+ # Cat vs Dog Image Classification with SVM
 
 A machine learning model that classifies images of cats and dogs using a Support Vector Machine (SVM).
 
